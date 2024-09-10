@@ -34,3 +34,15 @@ The framework has 2 stages.
 
 Code and processed dataset will be public around July. Stay tuned :)
 
+
+### Cite Our Paper
+```bash
+@inproceedings{yang2024hard,
+  author={Yang, Yi and Zhang, Qingwen and Ikemura, Kei and Batool, Nazre and Folkesson, John},
+  booktitle={2024 IEEE Intelligent Vehicles Symposium (IV)}, 
+  title={Hard Cases Detection in Motion Prediction by Vision-Language Foundation Models}, 
+  year={2024},
+  pages={2405-2412},
+  doi={10.1109/IV55156.2024.10588694}
+}
+```
